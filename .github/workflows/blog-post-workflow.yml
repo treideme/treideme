@@ -13,5 +13,5 @@ jobs:
      - uses: actions/checkout@v2
      - uses: gautamkrishnar/blog-post-workflow@master
        with:
-         # Replace this URL with your rss feed URL/s
          feed_list: "https://www.reidemeister.com/?feed=rss2"
+         disable_item_validation: true
