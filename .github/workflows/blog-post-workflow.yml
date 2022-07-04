@@ -17,3 +17,4 @@ jobs:
      - uses: treideme/blog-post-workflow@master
        with:
          feed_list: "https://www.reidemeister.com/?feed=rss2"
+         max_post_count: 25
