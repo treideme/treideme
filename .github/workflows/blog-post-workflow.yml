@@ -9,6 +9,11 @@ jobs:
  update-readme-with-blog:
    name: Update this repo's README with latest blog posts
    runs-on: ubuntu-latest
+   env:
+     - name: SSL_CERT_DIR
+       value: "/etc/ssl/certs"
+     - name: NODE_TLS_REJECT_UNAUTHORIZED
+       value: 0
    steps:
      - uses: actions/checkout@v2
      - uses: treideme/blog-post-workflow@master
