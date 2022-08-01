@@ -12,6 +12,7 @@ Personally, I am interested in retro computing, microcontrollers, and martial ar
 <br>
 
 <!-- BLOG-POST-LIST:START -->
+- [A New Pal – Building a Training Dummy](https://www.reidemeister.com/?p=507)
 - [Offline Linux: Back to the 90s Thanks to Rogers](https://www.reidemeister.com/?p=474)
 - [Fixing A Nice Toy Car](https://www.reidemeister.com/?p=465)
 - [MCS-51 / 8051 – Hello STC89C52 part 2](https://www.reidemeister.com/?p=449)
@@ -21,7 +22,6 @@ Personally, I am interested in retro computing, microcontrollers, and martial ar
 - [Rebooting Fitness and Martial Arts](https://www.reidemeister.com/?p=311)
 - [Radio Gaga](https://www.reidemeister.com/?p=315)
 - [Getting Kids into Time Management](https://www.reidemeister.com/?p=250)
-- [A New Beginning](https://www.reidemeister.com/?p=227)
 <!-- BLOG-POST-LIST:END --> 
 
 <br>
