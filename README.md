@@ -12,6 +12,7 @@ Personally, I am interested in retro computing, microcontrollers, and martial ar
 <br>
 
 <!-- BLOG-POST-LIST:START -->
+- [The $2 PCB worked…](https://www.reidemeister.com/?p=577)
 - [Smart Real-Time-Clock on a $2 PCB](https://www.reidemeister.com/?p=565)
 - [A Practical Introduction to libUSB and Raster Printers](https://www.reidemeister.com/?p=544)
 - [MCS-51 / 8051 Next Steps – Zapping into Shape](https://www.reidemeister.com/?p=528)
@@ -21,7 +22,6 @@ Personally, I am interested in retro computing, microcontrollers, and martial ar
 - [MCS-51 / 8051 – Hello STC89C52 part 2](https://www.reidemeister.com/?p=449)
 - [Hacking Low-Cost Ankle Weights](https://www.reidemeister.com/?p=429)
 - [MCS-51 / 8051 – Hello STC89C52](https://www.reidemeister.com/?p=395)
-- [MCS-51 / 8051 Revived – Introduction](https://www.reidemeister.com/?p=295)
 <!-- BLOG-POST-LIST:END --> 
 
 <br>
