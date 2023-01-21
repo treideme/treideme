@@ -12,6 +12,7 @@ Personally, I am interested in retro computing, microcontrollers, and martial ar
 <br>
 
 <!-- BLOG-POST-LIST:START -->
+- [32-bits at $0.10](https://www.reidemeister.com/?p=604)
 - [Retooling for 2023](https://www.reidemeister.com/?p=600)
 - [A Tiny Companion](https://www.reidemeister.com/?p=585)
 - [The $2 PCB worked…](https://www.reidemeister.com/?p=577)
@@ -21,7 +22,6 @@ Personally, I am interested in retro computing, microcontrollers, and martial ar
 - [A New Pal – Building a Training Dummy](https://www.reidemeister.com/?p=507)
 - [Offline Linux: Back to the 90s Thanks to Rogers](https://www.reidemeister.com/?p=474)
 - [Fixing A Nice Toy Car](https://www.reidemeister.com/?p=465)
-- [MCS-51 / 8051 – Hello STC89C52 part 2](https://www.reidemeister.com/?p=449)
 <!-- BLOG-POST-LIST:END --> 
 
 <br>
