@@ -12,6 +12,7 @@ Personally, I am interested in retro computing, microcontrollers, and martial ar
 <br>
 
 <!-- BLOG-POST-LIST:START -->
+- [IoT Contest: Reaction Trainer Design](https://www.reidemeister.com/?p=640)
 - [IoT Contest – Next-Generation Reaction Trainer using RISCV and RT-Thead](https://www.reidemeister.com/?p=624)
 - [Fixing a built-in Oven and Plyometrics](https://www.reidemeister.com/?p=614)
 - [32-bits at $0.10](https://www.reidemeister.com/?p=604)
@@ -21,7 +22,6 @@ Personally, I am interested in retro computing, microcontrollers, and martial ar
 - [Smart Real-Time-Clock on a $2 PCB](https://www.reidemeister.com/?p=565)
 - [A Practical Introduction to libUSB and Raster Printers](https://www.reidemeister.com/?p=544)
 - [MCS-51 / 8051 Next Steps – Zapping into Shape](https://www.reidemeister.com/?p=528)
-- [A New Pal – Building a Training Dummy](https://www.reidemeister.com/?p=507)
 <!-- BLOG-POST-LIST:END --> 
 
 <br>
