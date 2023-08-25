@@ -12,6 +12,7 @@ Personally, I am interested in retro computing, microcontrollers, and martial ar
 <br>
 
 <!-- BLOG-POST-LIST:START -->
+- [Coming Out of a $0.10 Shell – Semihosting on WCH RISCV MCUs](https://www.reidemeister.com/?p=707)
 - [Embedded Continous Integration Made Easier](https://www.reidemeister.com/?p=689)
 - [IoT Contest Conclusion](https://www.reidemeister.com/?p=660)
 - [IoT Contest: Reaction Trainer Design](https://www.reidemeister.com/?p=640)
@@ -21,7 +22,6 @@ Personally, I am interested in retro computing, microcontrollers, and martial ar
 - [Retooling for 2023](https://www.reidemeister.com/?p=600)
 - [A Tiny Companion](https://www.reidemeister.com/?p=585)
 - [The $2 PCB worked…](https://www.reidemeister.com/?p=577)
-- [Smart Real-Time-Clock on a $2 PCB](https://www.reidemeister.com/?p=565)
 <!-- BLOG-POST-LIST:END --> 
 
 <br>
