@@ -12,16 +12,16 @@ Personally, I am interested in retro computing, microcontrollers, and martial ar
 <br>
 
 <!-- BLOG-POST-LIST:START -->
-- [Blog Migration](https://reidemeister.com/blog/2025)
-- [Diversification](https://reidemeister.com/blog/2025)
-- [Proactive Recovery](https://reidemeister.com/blog/2025)
-- [Out of Commission](https://reidemeister.com/blog/2025)
-- [Off to Surgery](https://reidemeister.com/blog/2025)
-- [Ashi-Barai Really Works!](https://reidemeister.com/blog/2025)
-- [Web Hosting Pains](https://reidemeister.com/blog/2025)
-- [1D Measurements with Bottlenose and HALCON](https://reidemeister.com/blog/2024)
-- [Calibrating Bottlenose with MVTec HALCON](https://reidemeister.com/blog/2024)
-- [Camera Calibration Theory](https://reidemeister.com/blog/2024)
+- [Blog Migration](https://reidemeister.com/blog/2025.10.13)
+- [Diversification](https://reidemeister.com/blog/2025.05.25)
+- [Proactive Recovery](https://reidemeister.com/blog/2025.04.30)
+- [Out of Commission](https://reidemeister.com/blog/2025.04.26)
+- [Off to Surgery](https://reidemeister.com/blog/2025.04.15)
+- [Ashi-Barai Really Works!](https://reidemeister.com/blog/2025.04.13)
+- [Web Hosting Pains](https://reidemeister.com/blog/2025.04.08)
+- [1D Measurements with Bottlenose and HALCON](https://reidemeister.com/blog/2024.06.06)
+- [Calibrating Bottlenose with MVTec HALCON](https://reidemeister.com/blog/2024.05.23)
+- [Camera Calibration Theory](https://reidemeister.com/blog/2024.05.22)
 <!-- BLOG-POST-LIST:END --> 
 
 <br>
