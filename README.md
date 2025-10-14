@@ -12,16 +12,16 @@ Personally, I am interested in retro computing, microcontrollers, and martial ar
 <br>
 
 <!-- BLOG-POST-LIST:START -->
-- [Coming Out of a $0.10 Shell – Semihosting on WCH RISCV MCUs](https://www.reidemeister.com/?p=707)
-- [Embedded Continous Integration Made Easier](https://www.reidemeister.com/?p=689)
-- [IoT Contest Conclusion](https://www.reidemeister.com/?p=660)
-- [IoT Contest: Reaction Trainer Design](https://www.reidemeister.com/?p=640)
-- [IoT Contest – Next-Generation Reaction Trainer using RISCV and RT-Thead](https://www.reidemeister.com/?p=624)
-- [Fixing a built-in Oven and Plyometrics](https://www.reidemeister.com/?p=614)
-- [32-bits at $0.10](https://www.reidemeister.com/?p=604)
-- [Retooling for 2023](https://www.reidemeister.com/?p=600)
-- [A Tiny Companion](https://www.reidemeister.com/?p=585)
-- [The $2 PCB worked…](https://www.reidemeister.com/?p=577)
+- [Blog Migration](https://reidemeister.com/blog/2025)
+- [Diversification](https://reidemeister.com/blog/2025)
+- [Proactive Recovery](https://reidemeister.com/blog/2025)
+- [Out of Commission](https://reidemeister.com/blog/2025)
+- [Off to Surgery](https://reidemeister.com/blog/2025)
+- [Ashi-Barai Really Works!](https://reidemeister.com/blog/2025)
+- [Web Hosting Pains](https://reidemeister.com/blog/2025)
+- [1D Measurements with Bottlenose and HALCON](https://reidemeister.com/blog/2024)
+- [Calibrating Bottlenose with MVTec HALCON](https://reidemeister.com/blog/2024)
+- [Camera Calibration Theory](https://reidemeister.com/blog/2024)
 <!-- BLOG-POST-LIST:END --> 
 
 <br>
