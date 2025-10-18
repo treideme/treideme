@@ -13,6 +13,7 @@ Personally, I am interested in retro computing, microcontrollers, and martial ar
 
 <!-- BLOG-POST-LIST:START -->
 - [Blog Migration](https://reidemeister.com/blog/2025.10.13)
+- [Floatcard for Small Businesses](https://reidemeister.com/blog/2025.10.02)
 - [Diversification](https://reidemeister.com/blog/2025.05.25)
 - [Proactive Recovery](https://reidemeister.com/blog/2025.04.30)
 - [Out of Commission](https://reidemeister.com/blog/2025.04.26)
@@ -21,7 +22,6 @@ Personally, I am interested in retro computing, microcontrollers, and martial ar
 - [Web Hosting Pains](https://reidemeister.com/blog/2025.04.08)
 - [1D Measurements with Bottlenose and HALCON](https://reidemeister.com/blog/2024.06.06)
 - [Calibrating Bottlenose with MVTec HALCON](https://reidemeister.com/blog/2024.05.23)
-- [Camera Calibration Theory](https://reidemeister.com/blog/2024.05.22)
 <!-- BLOG-POST-LIST:END --> 
 
 <br>
