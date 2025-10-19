@@ -12,6 +12,7 @@ Personally, I am interested in retro computing, microcontrollers, and martial ar
 <br>
 
 <!-- BLOG-POST-LIST:START -->
+- [Find your addicts? More MCS-51](https://reidemeister.com/blog/2025.10.19)
 - [Jion Kata and maybe Shito-Ryu Shodan?](https://reidemeister.com/blog/2025.10.18)
 - [Blog Migration](https://reidemeister.com/blog/2025.10.13)
 - [Multi Media with Gemini](https://reidemeister.com/blog/2025.10.10)
@@ -21,7 +22,6 @@ Personally, I am interested in retro computing, microcontrollers, and martial ar
 - [Out of Commission](https://reidemeister.com/blog/2025.04.26)
 - [Off to Surgery](https://reidemeister.com/blog/2025.04.15)
 - [Ashi-Barai Really Works!](https://reidemeister.com/blog/2025.04.13)
-- [Web Hosting Pains](https://reidemeister.com/blog/2025.04.08)
 <!-- BLOG-POST-LIST:END --> 
 
 <br>
