@@ -13,6 +13,7 @@ Personally, I am interested in retro computing, microcontrollers, and martial ar
 
 <!-- BLOG-POST-LIST:START -->
 - [MCS-51 UART](https://reidemeister.com/blog/2025.10.29)
+- [Timers on the MCS-51 Series Microcontrollers](https://reidemeister.com/blog/2025.10.27)
 - [Interrupt Processing on MCS-51 and Derivatives](https://reidemeister.com/blog/2025.10.26)
 - [GPIOs on MCS-51 Derivatives](https://reidemeister.com/blog/2025.10.22)
 - [Find your addicts? More MCS-51](https://reidemeister.com/blog/2025.10.19)
@@ -21,7 +22,6 @@ Personally, I am interested in retro computing, microcontrollers, and martial ar
 - [Multi Media with Gemini](https://reidemeister.com/blog/2025.10.10)
 - [Floatcard for Small Businesses](https://reidemeister.com/blog/2025.10.02)
 - [Diversification](https://reidemeister.com/blog/2025.05.25)
-- [Proactive Recovery](https://reidemeister.com/blog/2025.04.30)
 <!-- BLOG-POST-LIST:END --> 
 
 <br>
