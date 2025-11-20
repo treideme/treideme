@@ -12,7 +12,7 @@ Personally, I am interested in retro computing, microcontrollers, and martial ar
 <br>
 
 <!-- BLOG-POST-LIST:START -->
-- [MCS-51 Real-World interfacing - Dot-Matrix LCDs](https://reidemeister.com/blog/2025.11.18)
+- [MCS-51 Real-World Interfacing - Dot-Matrix LCDs](https://reidemeister.com/blog/2025.11.18)
 - [MCS-51 Real-World interfacing - Character LCDs](https://reidemeister.com/blog/2025.11.17)
 - [MCS-51 Real-World interfacing - 7 Segment Displays](https://reidemeister.com/blog/2025.11.15)
 - [MCS-51 Real-World interfacing - Basic User Interfaces](https://reidemeister.com/blog/2025.11.01)
