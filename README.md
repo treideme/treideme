@@ -12,6 +12,9 @@ Personally, I am interested in retro computing, microcontrollers, and martial ar
 <br>
 
 <!-- BLOG-POST-LIST:START -->
+- [Shito-Ryu Shodan, Kamakura, and Katas Still to Clean Up](https://reidemeister.com/blog/2026.08.12)
+- [Touring NSIS](https://reidemeister.com/blog/2026.02.07)
+- [Reviving a Parallel-Port Iomega ZIP Drive on Ubuntu 22.04](https://reidemeister.com/blog/2026.01.10)
 - [MCS-51 Real-World Interfacing - Infrared Data](https://reidemeister.com/blog/2025.11.24)
 - [MCS-51 Real-World Interfacing - Philips I2C](https://reidemeister.com/blog/2025.11.23)
 - [MCS-51 Real-World Interfacing - Dallas 1 Wire](https://reidemeister.com/blog/2025.11.22)
@@ -19,9 +22,6 @@ Personally, I am interested in retro computing, microcontrollers, and martial ar
 - [MCS-51 Real-World interfacing - Character LCDs](https://reidemeister.com/blog/2025.11.17)
 - [MCS-51 Real-World interfacing - 7 Segment Displays](https://reidemeister.com/blog/2025.11.15)
 - [MCS-51 Real-World interfacing - Basic User Interfaces](https://reidemeister.com/blog/2025.11.01)
-- [MCS-51 UART](https://reidemeister.com/blog/2025.10.29)
-- [Timers on the MCS-51 Series Microcontrollers](https://reidemeister.com/blog/2025.10.27)
-- [Interrupt Processing on MCS-51 and Derivatives](https://reidemeister.com/blog/2025.10.26)
 <!-- BLOG-POST-LIST:END --> 
 
 <br>
