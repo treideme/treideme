@@ -17,11 +17,11 @@ Personally, I am interested in retro computing, microcontrollers, and martial ar
 - [MCS-51 - Made in America &lpar;Thailand&rpar;](https://reidemeister.com/blog/2026.03.14)
 - [Touring NSIS](https://reidemeister.com/blog/2026.02.07)
 - [Reviving a Parallel-Port Iomega ZIP Drive on Ubuntu 22.04](https://reidemeister.com/blog/2026.01.10)
+- [MCS-51 Real-World Interfacing - Ethernet](https://reidemeister.com/blog/2025.11.29)
 - [MCS-51 Real-World Interfacing - Infrared Data](https://reidemeister.com/blog/2025.11.24)
 - [MCS-51 Real-World Interfacing - Philips I2C](https://reidemeister.com/blog/2025.11.23)
 - [MCS-51 Real-World Interfacing - Dallas 1 Wire](https://reidemeister.com/blog/2025.11.22)
 - [MCS-51 Real-World Interfacing - Dot-Matrix LCDs](https://reidemeister.com/blog/2025.11.18)
-- [MCS-51 Real-World interfacing - Character LCDs](https://reidemeister.com/blog/2025.11.17)
 <!-- BLOG-POST-LIST:END --> 
 
 <br>
